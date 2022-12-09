@@ -1,13 +1,5 @@
 # Laravel TodoList Sample
 
-Repository ini dibuat dengan laravel 9 untuk sebagai contoh pendukung perkuliahan
-
-## Instalasi
-- Clone repository ini
-```
-git clone https://github.com/dianprawira/laravel-todos.git
-cd laravel-todos/
-```
 - Jalankan composer install
 ```
 composer install
